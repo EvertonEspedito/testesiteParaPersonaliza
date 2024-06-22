@@ -1,0 +1,106 @@
+.header-logo-title a img{
+    display: none;
+}
+
+.header-logo-title a{
+    background-image: url('/logo/LOGO.jpg');
+    width: 135px;
+    height: 135px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#absolute-nav > ul{
+    background-color: #6E7170;
+}
+
+
+#div-fav-desktop > label{
+    background-color: #6D5252;
+    font-weight: 300;
+}
+
+
+#absolute-nav > div{
+    background-color: #323F54;
+}
+
+
+#widget-busca-6{
+    background: #323F54;
+    border-radius: 1rem;
+}
+
+#submitB{
+    font-weight: bold;
+    border-radius: 1rem;
+}
+
+#destaques-scripts > div > div{
+    background-color: #c73333;
+    font-weight: bold;
+}
+
+#detaque-mais-info{
+    border-radius: 0rem 0rem 1rem 1rem;
+    font-weight: bold;
+}
+
+#body > main > div.lias_201390{
+    background-color: #6E7170;
+}
+#body > main div.lias_201390  div{
+    background-color: #6E7170;
+}
+#carouselLancamento > div > div.destaque-imovel.destaque-emp.clearfix.item.active > div.content-lancamento.destaque-imovel-info.destaque-emp-info.destaque-finalidade > div.mais-detalhes-lancamento.col-xs-12 > div > a{
+    background-color: #c73333;
+    font-weight: bold;
+}
+
+#widget-calc > div > div.calculadora-digital-2__header.col-md-6{
+    background-color: #c73333;
+}
+
+#widget-calc > div > div.calculadora-digital-2__content.col-md-6 > a{
+    background-color: #c73333;
+}
+
+
+#body > main > div.lias_201394 > div > div > div > div > div > div.carousel.carousel-noticia.flickity-enabled.is-draggable > div > div > div > div > div > div > a > div.card-foto > p{
+    background-color: #c73333;
+    font-weight: bold;
+    border-radius: 1rem;
+}
+#body > main > div.lias_201394 > div > div > div > div > div > div.carousel.carousel-noticia.flickity-enabled.is-draggable > div > div > div > div > div > div> div > a.card-leia-mais{
+    background-color: #c73333;
+    font-weight: bold;
+    border-radius: 1rem;
+}
+
+#body > main > div.lias_201395 > div > div > div > div > div > div:nth-child(1) > div a{
+    background-color: #6E7170;
+    font-weight: bold;
+}
+
+#lias_201387 > div > div > div > div > div.col-lg-4.col-md-4.col-sm-4.col-xs-12.col-md-offset-0.logo-footer > div{
+    background-image: url('/logo/LOGO.jpg');
+    width: 250px;
+    height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+a.footer-img img{
+    display: none;
+}
+
+
+#rodape-1 > div.bottom-row > div.container{
+    background-color: #6E7170;
+}
+
+#rodape-1 > div.bottom-row{
+    background-color: #6E7170;
+}
